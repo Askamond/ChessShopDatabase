@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ChessShopDatabase.Helpers.MD5Hash">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helpers\MD5Hash.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessShopDatabase.Helpers.UserInfo">
+    <Position X="4" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAGAAAAAAAAAAAAAAAAAAAAAAAACAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Helpers\UserInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessShopDatabase.Database.Users.UserModel">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAACAAAAAAIAABAAAAIAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Database\Users\UserModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessShopDatabase.Database.Orders.OrderModel">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAwAAAAAACAAAAAAAACAABA=</HashCode>
+      <FileName>Database\Orders\OrderModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessShopDatabase.Database.Logs.LogModel">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAACAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Database\Logs\LogModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessShopDatabase.Database.Goods.GoodModel">
+    <Position X="2.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAIAAAAAgAAAABAAAAAwAAAAAAAAAAAAgCCAAAAA=</HashCode>
+      <FileName>Database\Goods\GoodModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessShopDatabase.Database.Comments.CommentModel">
+    <Position X="2.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAgAAAAAAAAAAAAgAAAAAACAAAAABAAAAAAA=</HashCode>
+      <FileName>Database\Comments\CommentModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessShopDatabase.Controls.GoodViewTemplate">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAkAAAACEAAAAAACCAAAACAQgECCQAAAEAggEAAAE=</HashCode>
+      <FileName>Controls\GoodViewTemplate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessShopDatabase.Forms.AddNewGoodForm" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AYAIAERCgCUAAAAIAAKAgCAOAAwAQCABIAAQAAAAAAA=</HashCode>
+      <FileName>Forms\AddNewGoodForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessShopDatabase.Forms.AuthorizationForm" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAQBCAggACgAAKAABAABAAAAAAAAA=</HashCode>
+      <FileName>Forms\AuthorizationForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessShopDatabase.Forms.CartForm" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Forms\CartForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessShopDatabase.Forms.CatalogForm" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAKAACAAAAACAABACSAAACAQAAAAgAAEAAAA=</HashCode>
+      <FileName>Forms\CatalogForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessShopDatabase.Forms.CheckInForm" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAQACAggACgAACAABAABAAAAAAAAA=</HashCode>
+      <FileName>Forms\CheckInForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessShopDatabase.Forms.GoodForm" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Forms\GoodForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessShopDatabase.Forms.LogsForm" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kAAAAwAAAiYAABAAAACAAAACCACAIAAAAAEBAIgACAY=</HashCode>
+      <FileName>Forms\LogsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessShopDatabase.Forms.MainForm" Collapsed="true">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACCAAAACiQAAAiAECAEACCQQAkCFpIAAJAAAEAAAM=</HashCode>
+      <FileName>Forms\MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessShopDatabase.Forms.OrdersForm" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Forms\OrdersForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessShopDatabase.Forms.UserManagementForm" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kAAAEAAAADAAAAAAAACAIAACDAAACBgAAAAAAAGBAAA=</HashCode>
+      <FileName>Forms\UserManagementForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessShopDatabase.View.Forms.OrderForm" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Forms\OrderForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="ChessShopDatabase.Helpers.UserTypes">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Helpers\UserTypes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ChessShopDatabase.Helpers.GoodTypes">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAQAAAAAAAAAAAAAAAAAIAAEAAAAAAAACAAAgA=</HashCode>
+      <FileName>Helpers\GoodTypes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
